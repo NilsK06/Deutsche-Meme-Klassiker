@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    background-color: seagreen;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 5px 5px;
+}
+a:visited{
+    background-color: seagreen;
+    color: white;
+}
+a:hover{
+    background-color: darkseagreen;
+    color: black;
+}
+header {
+    background-color: palegreen;
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right:100px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
